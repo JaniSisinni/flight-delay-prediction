@@ -1,0 +1,3 @@
+# Ignore specific files (Non human-readable)
+models/flight_delay_model.h5
+models/flight_delay_model.pth
